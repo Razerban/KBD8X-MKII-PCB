@@ -757,7 +757,7 @@
     )
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 36.195 35.56 0)
+  (symbol (lib_id "LED:WS2812B") (at 36.195 35.56 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a54fd)
     (property "Reference" "RGB1" (id 0) (at 44.8564 34.3916 0)
@@ -778,7 +778,7 @@
     (pin "4" (uuid 4fd929be-dd76-4d04-953e-6578725933e5))
   )
 
-  (symbol (lib_id "power:+5V") (at 36.195 27.94 0)
+  (symbol (lib_id "power:+5V") (at 36.195 27.94 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a5504)
     (property "Reference" "#PWR0107" (id 0) (at 36.195 31.75 0)
@@ -794,7 +794,7 @@
     (pin "1" (uuid 1d847a07-fba1-4a2a-89ce-038aebc01a28))
   )
 
-  (symbol (lib_id "power:GND") (at 36.195 43.18 0)
+  (symbol (lib_id "power:GND") (at 36.195 43.18 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a550a)
     (property "Reference" "#PWR0108" (id 0) (at 36.195 49.53 0)
@@ -810,7 +810,7 @@
     (pin "1" (uuid fafe7494-c2ea-4e1e-93bd-c6bc5aed0c60))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 36.195 62.23 0)
+  (symbol (lib_id "LED:WS2812B") (at 36.195 62.23 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a5510)
     (property "Reference" "RGB2" (id 0) (at 44.8564 61.0616 0)
@@ -831,7 +831,7 @@
     (pin "4" (uuid b4663e49-fdf6-4cd1-a0d1-3e99344da1ef))
   )
 
-  (symbol (lib_id "power:+5V") (at 36.195 54.61 0)
+  (symbol (lib_id "power:+5V") (at 36.195 54.61 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a5517)
     (property "Reference" "#PWR0109" (id 0) (at 36.195 58.42 0)
@@ -847,7 +847,7 @@
     (pin "1" (uuid 872c1813-f600-44e2-9529-db2493d42e6d))
   )
 
-  (symbol (lib_id "power:GND") (at 36.195 69.85 0)
+  (symbol (lib_id "power:GND") (at 36.195 69.85 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a551d)
     (property "Reference" "#PWR0110" (id 0) (at 36.195 76.2 0)
@@ -863,7 +863,7 @@
     (pin "1" (uuid 75eb05e0-0a6f-4adc-ae16-0be4022c4fa5))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 36.195 88.9 0)
+  (symbol (lib_id "LED:WS2812B") (at 36.195 88.9 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a5523)
     (property "Reference" "RGB3" (id 0) (at 44.8564 87.7316 0)
@@ -884,7 +884,7 @@
     (pin "4" (uuid 88daee28-77c6-45c4-acb5-5b571812f612))
   )
 
-  (symbol (lib_id "power:+5V") (at 36.195 81.28 0)
+  (symbol (lib_id "power:+5V") (at 36.195 81.28 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a552a)
     (property "Reference" "#PWR0111" (id 0) (at 36.195 85.09 0)
@@ -900,7 +900,7 @@
     (pin "1" (uuid 08b0f9c0-2a1a-4231-a5ef-364f815a0181))
   )
 
-  (symbol (lib_id "power:GND") (at 36.195 96.52 0)
+  (symbol (lib_id "power:GND") (at 36.195 96.52 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a5530)
     (property "Reference" "#PWR0112" (id 0) (at 36.195 102.87 0)
@@ -916,7 +916,7 @@
     (pin "1" (uuid 5f9b0a25-53b9-438c-9bdb-d2159e424512))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 36.195 115.57 0)
+  (symbol (lib_id "LED:WS2812B") (at 36.195 115.57 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a5536)
     (property "Reference" "RGB4" (id 0) (at 44.8564 114.4016 0)
@@ -937,7 +937,7 @@
     (pin "4" (uuid 8830c0f6-87cc-4272-8f47-1d9a0a8ecd5e))
   )
 
-  (symbol (lib_id "power:+5V") (at 36.195 107.95 0)
+  (symbol (lib_id "power:+5V") (at 36.195 107.95 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a553d)
     (property "Reference" "#PWR0113" (id 0) (at 36.195 111.76 0)
@@ -953,7 +953,7 @@
     (pin "1" (uuid 63ce0ace-44c4-408c-b318-e3a9e15d8fb3))
   )
 
-  (symbol (lib_id "power:GND") (at 36.195 123.19 0)
+  (symbol (lib_id "power:GND") (at 36.195 123.19 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a5543)
     (property "Reference" "#PWR0114" (id 0) (at 36.195 129.54 0)
@@ -969,7 +969,7 @@
     (pin "1" (uuid 111ab69b-6d47-4e74-a492-9a845264299c))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 71.12 35.56 0)
+  (symbol (lib_id "LED:WS2812B") (at 71.12 35.56 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9518)
     (property "Reference" "RGB5" (id 0) (at 79.7814 34.3916 0)
@@ -990,7 +990,7 @@
     (pin "4" (uuid 7b851829-7752-4b0b-afa8-7e1ca1a6d8ff))
   )
 
-  (symbol (lib_id "power:+5V") (at 71.12 27.94 0)
+  (symbol (lib_id "power:+5V") (at 71.12 27.94 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a951f)
     (property "Reference" "#PWR0115" (id 0) (at 71.12 31.75 0)
@@ -1006,7 +1006,7 @@
     (pin "1" (uuid db734bec-9c8f-4730-8f11-3169242a4a83))
   )
 
-  (symbol (lib_id "power:GND") (at 71.12 43.18 0)
+  (symbol (lib_id "power:GND") (at 71.12 43.18 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9525)
     (property "Reference" "#PWR0116" (id 0) (at 71.12 49.53 0)
@@ -1022,7 +1022,7 @@
     (pin "1" (uuid 54dc09fb-becf-4481-88d7-c6c2ac3fe6df))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 71.12 62.23 0)
+  (symbol (lib_id "LED:WS2812B") (at 71.12 62.23 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a952b)
     (property "Reference" "RGB6" (id 0) (at 79.7814 61.0616 0)
@@ -1043,7 +1043,7 @@
     (pin "4" (uuid ea7446f4-dd41-420d-8031-fb36e90fc95a))
   )
 
-  (symbol (lib_id "power:+5V") (at 71.12 54.61 0)
+  (symbol (lib_id "power:+5V") (at 71.12 54.61 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9532)
     (property "Reference" "#PWR0117" (id 0) (at 71.12 58.42 0)
@@ -1059,7 +1059,7 @@
     (pin "1" (uuid 63a0939b-6567-46d2-a101-4d79d84ec80d))
   )
 
-  (symbol (lib_id "power:GND") (at 71.12 69.85 0)
+  (symbol (lib_id "power:GND") (at 71.12 69.85 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9538)
     (property "Reference" "#PWR0118" (id 0) (at 71.12 76.2 0)
@@ -1075,7 +1075,7 @@
     (pin "1" (uuid 7d61ae21-ae4e-4280-9849-8c14a4100837))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 71.12 88.9 0)
+  (symbol (lib_id "LED:WS2812B") (at 71.12 88.9 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a953e)
     (property "Reference" "RGB7" (id 0) (at 79.7814 87.7316 0)
@@ -1096,7 +1096,7 @@
     (pin "4" (uuid 2a8e8e69-5112-47ec-adaf-21ea53ec1226))
   )
 
-  (symbol (lib_id "power:+5V") (at 71.12 81.28 0)
+  (symbol (lib_id "power:+5V") (at 71.12 81.28 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9545)
     (property "Reference" "#PWR0119" (id 0) (at 71.12 85.09 0)
@@ -1112,7 +1112,7 @@
     (pin "1" (uuid 81098c9e-f8f8-4907-b197-22ff875f1d98))
   )
 
-  (symbol (lib_id "power:GND") (at 71.12 96.52 0)
+  (symbol (lib_id "power:GND") (at 71.12 96.52 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a954b)
     (property "Reference" "#PWR0120" (id 0) (at 71.12 102.87 0)
@@ -1128,7 +1128,7 @@
     (pin "1" (uuid 826678d4-fd2b-4d09-bb53-99f6558414e0))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 71.12 115.57 0)
+  (symbol (lib_id "LED:WS2812B") (at 71.12 115.57 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9551)
     (property "Reference" "RGB8" (id 0) (at 79.7814 114.4016 0)
@@ -1149,7 +1149,7 @@
     (pin "4" (uuid 8ab99e8f-2f82-48ee-8bf9-bf07876cf96c))
   )
 
-  (symbol (lib_id "power:+5V") (at 71.12 107.95 0)
+  (symbol (lib_id "power:+5V") (at 71.12 107.95 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9558)
     (property "Reference" "#PWR0121" (id 0) (at 71.12 111.76 0)
@@ -1165,7 +1165,7 @@
     (pin "1" (uuid 742e5992-cc0c-47c2-b78c-c49207a3a704))
   )
 
-  (symbol (lib_id "power:GND") (at 71.12 123.19 0)
+  (symbol (lib_id "power:GND") (at 71.12 123.19 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a955e)
     (property "Reference" "#PWR0122" (id 0) (at 71.12 129.54 0)
@@ -1181,7 +1181,7 @@
     (pin "1" (uuid dad998fb-b89c-4cc0-8dd4-efc0862158c1))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 109.22 35.56 0)
+  (symbol (lib_id "LED:WS2812B") (at 109.22 35.56 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c20)
     (property "Reference" "RGB9" (id 0) (at 117.8814 34.3916 0)
@@ -1202,7 +1202,7 @@
     (pin "4" (uuid 8fe1b51c-813d-483d-9b3a-b42a4834d162))
   )
 
-  (symbol (lib_id "power:+5V") (at 109.22 27.94 0)
+  (symbol (lib_id "power:+5V") (at 109.22 27.94 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c27)
     (property "Reference" "#PWR0123" (id 0) (at 109.22 31.75 0)
@@ -1218,7 +1218,7 @@
     (pin "1" (uuid 06a7a676-9f28-49a1-91bc-e60db1e42891))
   )
 
-  (symbol (lib_id "power:GND") (at 109.22 43.18 0)
+  (symbol (lib_id "power:GND") (at 109.22 43.18 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c2d)
     (property "Reference" "#PWR0124" (id 0) (at 109.22 49.53 0)
@@ -1234,7 +1234,7 @@
     (pin "1" (uuid 7e6fce2f-5805-4f0d-9d49-b98859fd15a7))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 109.22 62.23 0)
+  (symbol (lib_id "LED:WS2812B") (at 109.22 62.23 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c33)
     (property "Reference" "RGB10" (id 0) (at 117.8814 61.0616 0)
@@ -1255,7 +1255,7 @@
     (pin "4" (uuid bc2a6774-22ad-4979-adcc-c101f68ebb51))
   )
 
-  (symbol (lib_id "power:+5V") (at 109.22 54.61 0)
+  (symbol (lib_id "power:+5V") (at 109.22 54.61 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c3a)
     (property "Reference" "#PWR0125" (id 0) (at 109.22 58.42 0)
@@ -1271,7 +1271,7 @@
     (pin "1" (uuid 038847eb-4c53-4d95-9e0c-2cd6ef8b1410))
   )
 
-  (symbol (lib_id "power:GND") (at 109.22 69.85 0)
+  (symbol (lib_id "power:GND") (at 109.22 69.85 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c40)
     (property "Reference" "#PWR0126" (id 0) (at 109.22 76.2 0)
@@ -1287,7 +1287,7 @@
     (pin "1" (uuid 29d619e1-0e3f-4ab7-9cd9-745d43850311))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 109.22 88.9 0)
+  (symbol (lib_id "LED:WS2812B") (at 109.22 88.9 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c46)
     (property "Reference" "RGB11" (id 0) (at 117.8814 87.7316 0)
@@ -1308,7 +1308,7 @@
     (pin "4" (uuid 31dab7c6-ecdb-4efd-b6f5-9fc0da5ec545))
   )
 
-  (symbol (lib_id "power:+5V") (at 109.22 81.28 0)
+  (symbol (lib_id "power:+5V") (at 109.22 81.28 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c4d)
     (property "Reference" "#PWR0127" (id 0) (at 109.22 85.09 0)
@@ -1324,7 +1324,7 @@
     (pin "1" (uuid 93cc0da8-68ce-4bde-a85a-7f850767b825))
   )
 
-  (symbol (lib_id "power:GND") (at 109.22 96.52 0)
+  (symbol (lib_id "power:GND") (at 109.22 96.52 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c53)
     (property "Reference" "#PWR0128" (id 0) (at 109.22 102.87 0)
@@ -1340,7 +1340,7 @@
     (pin "1" (uuid d2545a5f-7d19-4014-83f1-f54285eefbc6))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 109.22 115.57 0)
+  (symbol (lib_id "LED:WS2812B") (at 109.22 115.57 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c59)
     (property "Reference" "RGB12" (id 0) (at 117.8814 114.4016 0)
@@ -1361,7 +1361,7 @@
     (pin "4" (uuid b5c3eec8-bfa4-4fd6-8493-9d096a325d12))
   )
 
-  (symbol (lib_id "power:+5V") (at 109.22 107.95 0)
+  (symbol (lib_id "power:+5V") (at 109.22 107.95 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c60)
     (property "Reference" "#PWR0129" (id 0) (at 109.22 111.76 0)
@@ -1377,7 +1377,7 @@
     (pin "1" (uuid 62ce50fc-df5f-4d98-8c64-21373ae4358d))
   )
 
-  (symbol (lib_id "power:GND") (at 109.22 123.19 0)
+  (symbol (lib_id "power:GND") (at 109.22 123.19 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c66)
     (property "Reference" "#PWR0130" (id 0) (at 109.22 129.54 0)
@@ -1393,7 +1393,7 @@
     (pin "1" (uuid f5830125-cc76-4c37-9a1c-d097ec978ec7))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 144.145 35.56 0)
+  (symbol (lib_id "LED:WS2812B") (at 144.145 35.56 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c75)
     (property "Reference" "RGB13" (id 0) (at 152.8064 34.3916 0)
@@ -1414,7 +1414,7 @@
     (pin "4" (uuid 7b633069-15e7-469d-9ced-ad8bd45a7acd))
   )
 
-  (symbol (lib_id "power:+5V") (at 144.145 27.94 0)
+  (symbol (lib_id "power:+5V") (at 144.145 27.94 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c7c)
     (property "Reference" "#PWR0131" (id 0) (at 144.145 31.75 0)
@@ -1430,7 +1430,7 @@
     (pin "1" (uuid 960a5954-5c0b-455a-9bc4-514760d1255c))
   )
 
-  (symbol (lib_id "power:GND") (at 144.145 43.18 0)
+  (symbol (lib_id "power:GND") (at 144.145 43.18 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c82)
     (property "Reference" "#PWR0132" (id 0) (at 144.145 49.53 0)
@@ -1446,7 +1446,7 @@
     (pin "1" (uuid 42bdf131-d749-4574-a198-d6a4e18baff4))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 144.145 62.23 0)
+  (symbol (lib_id "LED:WS2812B") (at 144.145 62.23 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c88)
     (property "Reference" "RGB14" (id 0) (at 152.8064 61.0616 0)
@@ -1467,7 +1467,7 @@
     (pin "4" (uuid 4936daab-87ad-422b-b2aa-4c1e6cb463e6))
   )
 
-  (symbol (lib_id "power:+5V") (at 144.145 54.61 0)
+  (symbol (lib_id "power:+5V") (at 144.145 54.61 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c8f)
     (property "Reference" "#PWR0133" (id 0) (at 144.145 58.42 0)
@@ -1483,7 +1483,7 @@
     (pin "1" (uuid c2351a36-f7de-49a2-98f2-25f842e89a80))
   )
 
-  (symbol (lib_id "power:GND") (at 144.145 69.85 0)
+  (symbol (lib_id "power:GND") (at 144.145 69.85 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c95)
     (property "Reference" "#PWR0134" (id 0) (at 144.145 76.2 0)
@@ -1499,7 +1499,7 @@
     (pin "1" (uuid dfb91d3a-5384-4e08-9474-65c74d6855bd))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 144.145 88.9 0)
+  (symbol (lib_id "LED:WS2812B") (at 144.145 88.9 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9c9b)
     (property "Reference" "RGB15" (id 0) (at 152.8064 87.7316 0)
@@ -1520,7 +1520,7 @@
     (pin "4" (uuid 00816c65-ade9-4d81-94a0-1d2e890fbcfe))
   )
 
-  (symbol (lib_id "power:+5V") (at 144.145 81.28 0)
+  (symbol (lib_id "power:+5V") (at 144.145 81.28 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9ca2)
     (property "Reference" "#PWR0135" (id 0) (at 144.145 85.09 0)
@@ -1536,7 +1536,7 @@
     (pin "1" (uuid b541a9f3-6b9b-42f0-9f8e-56ed49d92e0a))
   )
 
-  (symbol (lib_id "power:GND") (at 144.145 96.52 0)
+  (symbol (lib_id "power:GND") (at 144.145 96.52 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9ca8)
     (property "Reference" "#PWR0136" (id 0) (at 144.145 102.87 0)
@@ -1552,7 +1552,7 @@
     (pin "1" (uuid bffc2d64-45b2-4542-af5c-9e1635dd3729))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 144.145 115.57 0)
+  (symbol (lib_id "LED:WS2812B") (at 144.145 115.57 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9cae)
     (property "Reference" "RGB16" (id 0) (at 152.8064 114.4016 0)
@@ -1573,7 +1573,7 @@
     (pin "4" (uuid 6dc40ad6-e921-498b-a1f5-8c1acccb0688))
   )
 
-  (symbol (lib_id "power:+5V") (at 144.145 107.95 0)
+  (symbol (lib_id "power:+5V") (at 144.145 107.95 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9cb5)
     (property "Reference" "#PWR0137" (id 0) (at 144.145 111.76 0)
@@ -1589,7 +1589,7 @@
     (pin "1" (uuid 850dfbc5-b138-4432-9e62-f81eb0f8d171))
   )
 
-  (symbol (lib_id "power:GND") (at 144.145 123.19 0)
+  (symbol (lib_id "power:GND") (at 144.145 123.19 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8a9cbb)
     (property "Reference" "#PWR0138" (id 0) (at 144.145 129.54 0)
@@ -1605,7 +1605,7 @@
     (pin "1" (uuid 6753fb15-6b58-43d8-83e1-ebcb9e2515e3))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 177.8 35.56 0)
+  (symbol (lib_id "LED:WS2812B") (at 177.8 35.56 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8aa4bc)
     (property "Reference" "RGB17" (id 0) (at 186.4614 34.3916 0)
@@ -1626,7 +1626,7 @@
     (pin "4" (uuid fad45f37-f352-402d-975a-b3654b65bcde))
   )
 
-  (symbol (lib_id "power:+5V") (at 177.8 27.94 0)
+  (symbol (lib_id "power:+5V") (at 177.8 27.94 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8aa4c3)
     (property "Reference" "#PWR0139" (id 0) (at 177.8 31.75 0)
@@ -1642,7 +1642,7 @@
     (pin "1" (uuid f90dd64e-e035-4457-84f4-4f888110d1ab))
   )
 
-  (symbol (lib_id "power:GND") (at 177.8 43.18 0)
+  (symbol (lib_id "power:GND") (at 177.8 43.18 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8aa4c9)
     (property "Reference" "#PWR0140" (id 0) (at 177.8 49.53 0)
@@ -1658,7 +1658,7 @@
     (pin "1" (uuid b60405ea-e732-4014-8753-26bd0c1b2952))
   )
 
-  (symbol (lib_id "LED:WS2812B") (at 177.8 62.23 0)
+  (symbol (lib_id "LED:WS2812B") (at 177.8 62.23 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8aa4cf)
     (property "Reference" "RGB18" (id 0) (at 186.4614 61.0616 0)
@@ -1679,7 +1679,7 @@
     (pin "4" (uuid 458cdc62-e3c9-4c6b-a506-564e5e44cc1c))
   )
 
-  (symbol (lib_id "power:+5V") (at 177.8 54.61 0)
+  (symbol (lib_id "power:+5V") (at 177.8 54.61 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8aa4d6)
     (property "Reference" "#PWR0141" (id 0) (at 177.8 58.42 0)
@@ -1695,7 +1695,7 @@
     (pin "1" (uuid 20689c9f-4aef-4a17-876a-424afafc4ca0))
   )
 
-  (symbol (lib_id "power:GND") (at 177.8 69.85 0)
+  (symbol (lib_id "power:GND") (at 177.8 69.85 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005c8aa4dc)
     (property "Reference" "#PWR0142" (id 0) (at 177.8 76.2 0)

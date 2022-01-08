@@ -2547,7 +2547,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8d67)
     (at 80.9625 101.6)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed4c9")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_A1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5f38bdb2-3657-474e-8e86-d6bb0b298110)
@@ -2585,7 +2585,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8d7d)
     (at 166.6875 120.65)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4b0b")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_B1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 799e761c-1426-40e9-a069-1f4cb353bfaa)
@@ -2623,7 +2623,7 @@
     (tedit 5AC99989) (tstamp 00000000-0000-0000-0000-00005c7b8d93)
     (at 304.8 63.5)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2e40ae")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_BACK1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 41485de5-6ed3-4c83-b69e-ef83ae18093c)
@@ -2665,7 +2665,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8dad)
     (at 295.275 63.5)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2e40c2")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_BACK2" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8aff0f38-92a8-45ec-b106-b185e93ca3fd)
@@ -2703,7 +2703,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8dc3)
     (at 314.325 63.5)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a30e826")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_BACK3" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bd085057-7c0e-463a-982b-968a2dc1f0f8)
@@ -2741,7 +2741,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8dd9)
     (at 128.5875 120.65)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4ae3")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_C1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 751d823e-1d7b-4501-9658-d06d459b0e16)
@@ -2779,7 +2779,7 @@
     (tedit 5AC99953) (tstamp 00000000-0000-0000-0000-00005c7b8def)
     (at 54.76875 101.6)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed4a1")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_CLOCK1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c1b11207-7c0a-49b3-a41d-2fe677d5f3b8)
@@ -2817,7 +2817,7 @@
     (tedit 5AC994A7) (tstamp 00000000-0000-0000-0000-00005c7b8e05)
     (at 50.00625 101.6)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed4b5")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_CLOCK2" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5e755161-24a5-4650-a6e3-9836bf074412)
@@ -2855,7 +2855,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8e1b)
     (at 119.0625 101.6)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed4f1")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_D1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 272c2a78-b5f5-4b61-aed3-ec69e0e92729)
@@ -2893,7 +2893,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8e31)
     (at 338.1375 82.55)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005adcfa30")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_DEL1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d655bb0a-cbf9-4908-ad60-7024ff468fbd)
@@ -2931,7 +2931,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8e47)
     (at 357.1875 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005add1f85")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_DN1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 25c663ff-96b6-4263-a06e-d1829409cf73)
@@ -2969,7 +2969,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8e5d)
     (at 114.3 82.55)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed389")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_E1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f503ea07-bcf1-4924-930a-6f7e9cd312f8)
@@ -3007,7 +3007,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8e73)
     (at 357.1875 82.55)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005adcfa42")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_END1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b66b83a0-313f-4b03-b851-c6e9577a6eb7)
@@ -3045,7 +3045,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8e89)
     (at 47.625 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a28659d")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_ESC1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e0d7c1d9-102e-4758-a8b7-ff248f1ce315)
@@ -3083,7 +3083,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8e9f)
     (at 138.1125 101.6)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed505")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_F1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cd50b8dc-829d-4a1d-8f2a-6471f378ba87)
@@ -3121,7 +3121,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8eb5)
     (at 85.725 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ddecc")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_FN1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4fb2577d-2e1c-480c-9060-124510b35053)
@@ -3159,7 +3159,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8ecb)
     (at 104.775 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ddee0")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_FN2" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1a1ab354-5f85-45f9-938c-9f6c4c8c3ea2)
@@ -3197,7 +3197,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8ee1)
     (at 123.825 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2de585")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_FN3" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 720ec55a-7c69-4064-b792-ef3dbba4eab9)
@@ -3235,7 +3235,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8ef7)
     (at 142.875 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2de599")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_FN4" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9505be36-b21c-4db8-9484-dd0861395d26)
@@ -3273,7 +3273,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8f0d)
     (at 171.45 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2de5ad")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_FN5" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d6040293-95f0-436a-938c-ad69875a4be8)
@@ -3311,7 +3311,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8f23)
     (at 190.5 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2de5c1")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_FN6" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6ea0f2f7-b064-4b8f-bd17-48195d1c83d1)
@@ -3349,7 +3349,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8f39)
     (at 209.55 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2dfa8e")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_FN7" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 97e5f992-979e-4291-bd9a-a77c3fd4b1b5)
@@ -3387,7 +3387,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8f4f)
     (at 228.6 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2dfaa2")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_FN8" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4d3a1f72-d521-46ae-8fe1-3f8221038335)
@@ -3425,7 +3425,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8f65)
     (at 257.175 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2dfab6")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_FN9" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8ef1307e-4e79-474d-a93c-be38f714571c)
@@ -3463,7 +3463,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8f7b)
     (at 276.225 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2dfaca")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_FN10" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 42bd0f96-a831-406e-abb7-03ed1bbd785f)
@@ -3501,7 +3501,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8f91)
     (at 295.275 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2dfade")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_FN11" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp df93f76b-86da-45ae-87e2-4b691af12b00)
@@ -3539,7 +3539,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8fa7)
     (at 314.325 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2dfaf2")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_FN12" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5a889284-4c9f-49be-8f02-e43e18550914)
@@ -3577,7 +3577,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8fbd)
     (at 157.1625 101.6)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed519")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_G1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e07e1653-d05d-4bf2-bea3-6515a06de065)
@@ -3615,7 +3615,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8fd3)
     (at 176.2125 101.6)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed52d")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_H1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 89bd1fdd-6a91-474e-8495-7a2ba7eb6260)
@@ -3653,7 +3653,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8fe9)
     (at 357.1875 63.5)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005adcf9fa")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_HOME1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9f95f1fc-aa31-4ce6-996a-4b385731d8eb)
@@ -3691,7 +3691,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b8fff)
     (at 209.55 82.55)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed3ed")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_I1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2f33286e-7553-4442-acf0-23c61fcd6ab0)
@@ -3729,7 +3729,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b9015)
     (at 338.1375 63.5)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005adcf9e8")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_INS1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2ad4b4ba-3abd-4313-bed9-1edce936a95e)
@@ -3767,7 +3767,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b902b)
     (at 195.2625 101.6)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed541")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_J1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 45484f82-420e-44d0-a58e-382bb939dac5)
@@ -3805,7 +3805,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b9041)
     (at 214.3125 101.6)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed555")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_K1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 173fd4a7-b485-4e9d-8724-470865466784)
@@ -3843,7 +3843,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b9057)
     (at 233.3625 101.6)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed569")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_L1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp a04f8542-6c38-4d5c-bdbb-c8e0311a0936)
@@ -3881,7 +3881,7 @@
     (tedit 5AC994B3) (tstamp 00000000-0000-0000-0000-00005c7b906d)
     (at 97.63125 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4c37")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_LALT1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dfba7148-cad3-4f40-9835-b1394bd30a2c)
@@ -3919,7 +3919,7 @@
     (tedit 5AC9992C) (tstamp 00000000-0000-0000-0000-00005c7b9083)
     (at 100.0125 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005df0f6d0")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_LALT2" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3d70e675-48ae-4edd-b95d-3ca51e634018)
@@ -3957,7 +3957,7 @@
     (tedit 5AC994B3) (tstamp 00000000-0000-0000-0000-00005c7b9099)
     (at 50.00625 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4c0f")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_LCTRL1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 44e77d57-d16f-4723-a95f-1ac45276c458)
@@ -3995,7 +3995,7 @@
     (tedit 5AC9992C) (tstamp 00000000-0000-0000-0000-00005c7b90af)
     (at 52.3875 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a33b842")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_LCTRL2" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9e5fe65d-f158-4eb5-af93-2b5d0b9a0d55)
@@ -4033,7 +4033,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b90c5)
     (at 338.1375 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005add1f73")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_LFT1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 47957453-fce7-4d98-833c-e34bb8a852a5)
@@ -4071,7 +4071,7 @@
     (tedit 5AC994B3) (tstamp 00000000-0000-0000-0000-00005c7b90db)
     (at 73.81875 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4c23")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_LGUI1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7e90deb5-aef9-4d2b-a440-4cb0dbfaaa93)
@@ -4109,7 +4109,7 @@
     (tedit 5AE7B63F) (tstamp 00000000-0000-0000-0000-00005c7b90f1)
     (at 76.2 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a33b86a")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_LGUI2" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 058e77a4-10af-4bc8-a984-5984d3bbee4c)
@@ -4147,7 +4147,7 @@
     (tedit 5AC9A18D) (tstamp 00000000-0000-0000-0000-00005c7b9107)
     (at 59.53125 120.65)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4aa7")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_LSHIFT1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c202ddee-78ab-4ebb-beca-559aaf118430)
@@ -4189,7 +4189,7 @@
     (tedit 5AC994B3) (tstamp 00000000-0000-0000-0000-00005c7b9121)
     (at 50.00625 120.65)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005df0dcef")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_LSHIFT2" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bbb99edd-f016-43ea-b1c7-0bcdd1915ee8)
@@ -4227,7 +4227,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b9137)
     (at 71.4375 120.65)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005dd5e02c")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_LSHIFT3" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4aee84d1-0859-48ac-a053-5a981ee1b24a)
@@ -4265,7 +4265,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b914d)
     (at 204.7875 120.65)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4b33")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_M1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f364b99f-4502-4cba-a96d-4ed35ad108b5)
@@ -4303,7 +4303,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b9163)
     (at 185.7375 120.65)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4b1f")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_N1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp aeaaa120-9cc5-4520-9a70-067fbc8f5b7b)
@@ -4341,7 +4341,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b9179)
     (at 228.6 82.55)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed401")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_O1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 844f01a0-ac23-4a99-910e-4e91c579bb2b)
@@ -4379,7 +4379,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b918f)
     (at 247.65 82.55)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed415")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_P1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8eacb9d3-c41d-4b39-abd1-0bc8f2e97411)
@@ -4417,7 +4417,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b91a5)
     (at 376.2375 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005adcf9c4")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_PAUSE1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp cf45f134-35c0-4b31-91e7-048e45f34bf8)
@@ -4455,7 +4455,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b91bb)
     (at 376.2375 82.55)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005adcfa54")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_PGDN1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 35e60fa0-27cf-4d0e-8bab-b364400c08c0)
@@ -4493,7 +4493,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b91d1)
     (at 376.2375 63.5)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005adcfa0c")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_PGUP1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 16aa2316-1a67-45e5-b6c4-e59dd85814f4)
@@ -4531,7 +4531,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b91e7)
     (at 338.1375 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005adcf9a0")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_PRINT1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ff203a9b-3d2e-4e1d-a6f0-12d16e5120fb)
@@ -4569,7 +4569,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b91fd)
     (at 76.2 82.55)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed361")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_Q1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e746ec00-0dfd-4bc7-b357-6b4860c148ef)
@@ -4607,7 +4607,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b9213)
     (at 133.35 82.55)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed39d")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_R1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 978f967d-6cc0-4f07-b852-e2800feefa07)
@@ -4645,7 +4645,7 @@
     (tedit 5AC994B3) (tstamp 00000000-0000-0000-0000-00005c7b9229)
     (at 240.50625 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4d13")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_RALT1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fc329e60-968a-4f61-ba77-53d29ff8c1c7)
@@ -4683,7 +4683,7 @@
     (tedit 5AC998EE) (tstamp 00000000-0000-0000-0000-00005c7b923f)
     (at 261.9375 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a33b95a")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_RALT2" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d81bc63a-94f2-481d-a808-c50170eb6b79)
@@ -4721,7 +4721,7 @@
     (tedit 5AC994A7) (tstamp 00000000-0000-0000-0000-00005c7b9255)
     (at 311.94375 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4d4f")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_RCTRL1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7fd11519-eb9e-4413-8ca2-e43e38c699f6)
@@ -4759,7 +4759,7 @@
     (tedit 5AC998EE) (tstamp 00000000-0000-0000-0000-00005c7b926b)
     (at 309.5625 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005ef3106a")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_RCTRL2" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2ff15691-c9f8-4e08-a694-3230522780fc)
@@ -4797,7 +4797,7 @@
     (tedit 5AC9A18D) (tstamp 00000000-0000-0000-0000-00005c7b9281)
     (at 302.41875 101.6)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a321a08")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_RETURN1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 119c633c-175b-4b38-bbc1-1a076032c16e)
@@ -4839,7 +4839,7 @@
     (tedit 5AC994A7) (tstamp 00000000-0000-0000-0000-00005c7b92b7)
     (at 264.31875 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4d27")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_RGUI1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 25b39db8-8576-4473-b331-b912323e85f4)
@@ -4877,7 +4877,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b92cd)
     (at 285.75 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005ef309b7")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_RGUI2" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3d19e22b-2666-4e7d-825d-37a04ed07fa1)
@@ -4915,7 +4915,7 @@
     (tedit 5AC994A7) (tstamp 00000000-0000-0000-0000-00005c7b92e3)
     (at 288.13125 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4d3b")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_RMENU1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8634edb8-50db-43d2-95bb-5918d2cd24cc)
@@ -4953,7 +4953,7 @@
     (tedit 5AC9A1AE) (tstamp 00000000-0000-0000-0000-00005c7b92f9)
     (at 297.65625 120.65)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4b83")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_RSHIFT1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fa7e24a1-3452-454e-88a7-8a0ff878392a)
@@ -4995,7 +4995,7 @@
     (tedit 5AC99953) (tstamp 00000000-0000-0000-0000-00005c7b9313)
     (at 288.13125 120.65)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005f321443")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_RSHIFT2" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp eb14ae89-b776-4a7c-b1cb-51227ede5631)
@@ -5033,7 +5033,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b9329)
     (at 314.325 120.65)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4be7")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_RSHIFT3" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3d0a8609-a059-4734-b988-da00f509164d)
@@ -5071,7 +5071,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b933f)
     (at 376.2375 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005add1f97")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_RT1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 35e13391-5257-46f3-93a5-87ffd4e862a4)
@@ -5109,7 +5109,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b9355)
     (at 100.0125 101.6)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed4dd")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_S1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c34f5129-9516-486b-b322-ada2d7baa6ba)
@@ -5147,7 +5147,7 @@
     (tedit 5AC9A20E) (tstamp 00000000-0000-0000-0000-00005c7b9381)
     (at 169.06875 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4c87")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_SP1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e6b8e749-dce0-4716-821f-058d77eed5ce)
@@ -5189,7 +5189,7 @@
     (tedit 5AC9A288) (tstamp 00000000-0000-0000-0000-00005c7b939b)
     (at 180.975 139.7)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a33b8ba")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_SP2" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 08fa8ff6-09a7-484c-b1d9-0e3b7c49bb26)
@@ -5231,7 +5231,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b93b5)
     (at 152.4 82.55)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed3b1")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_T1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b7496a40-6116-4192-b413-2a22be4b5f9f)
@@ -5269,7 +5269,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b93e1)
     (at 190.5 82.55)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed3d9")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_U1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp bc408f2c-2338-4a2e-9d30-e90fd4d4f487)
@@ -5307,7 +5307,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b93f7)
     (at 357.1875 120.65)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005adcfad2")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_UP1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 78d3a4a0-e724-44e1-963f-de88a39d4158)
@@ -5345,7 +5345,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b940d)
     (at 147.6375 120.65)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4af7")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_V1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ca2c6135-06b9-49ec-b90b-71e52fd66fd1)
@@ -5383,7 +5383,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b9423)
     (at 95.25 82.55)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed375")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_W1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 95376300-f16d-43b2-b149-df8f49eb2782)
@@ -5421,7 +5421,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b9439)
     (at 109.5375 120.65)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4acf")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_X1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 12422a89-3d0c-485c-9386-f77121fd68fd)
@@ -5459,7 +5459,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b944f)
     (at 171.45 82.55)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed3c5")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_Y1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 55870dc1-a751-4fb1-a7eb-fe844b64659b)
@@ -5497,7 +5497,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005c7b9465)
     (at 90.4875 120.65)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2f4abb")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_Z1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c2f8c49f-d49f-49e2-940a-a7b9765ffdf0)
@@ -5535,7 +5535,7 @@
     (tedit 5AE26DA0) (tstamp 00000000-0000-0000-0000-00005c7baf6c)
     (at 311.94375 92.075)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005f32342d")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_RETURN2" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9ad54c14-6dd1-4741-ab11-80a0275cae72)
@@ -5934,7 +5934,7 @@
     (tedit 5AC998EE) (tstamp 00000000-0000-0000-0000-00005ca740f2)
     (at 52.3875 82.55)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed339")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_TAB1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b2cac11a-5f3b-43d7-88e5-8d0241ac6453)
@@ -5972,7 +5972,7 @@
     (tedit 5AC9901D) (tstamp 00000000-0000-0000-0000-00005ca78b05)
     (at 357.1875 39.6875)
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005adcf9b2")
-    (attr through_hole exclude_from_bom)
+    (attr through_hole exclude_from_pos_files exclude_from_bom)
     (fp_text reference "MX_SLOCK1" (at 0 3.175) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0e5c956a-0664-4fcf-9bb1-1eae993c2225)
@@ -6173,7 +6173,7 @@
     (tedit 5C42C5CE) (tstamp 00000000-0000-0000-0000-00005c5cec25)
     (at 377.825 107.15625 180)
     (path "/00000000-0000-0000-0000-00005b68d1be")
-    (attr exclude_from_bom)
+    (attr exclude_from_pos_files exclude_from_bom)
     (fp_text reference "J1" (at 0 -6 180) (layer "Dwgs.User")
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7cee474b-af8f-4832-b07a-c43c1ab0b464)
@@ -7079,7 +7079,7 @@
       (net 2 "Net-(C2-Pad1)") (tstamp ecb190c3-7d33-4f9e-917d-98f2e006b7de))
     (pad "2" smd rect locked (at 0.85 0 180) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp af5a6355-b37d-4130-98e5-c563dae6ea34))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7119,7 +7119,7 @@
       (net 5 "XTAL2") (tstamp c2d81a3b-9b02-4ddc-9c7b-c0e881678970))
     (pad "2" smd rect locked (at 0.85 0) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp 1db46316-f403-492b-8814-154fc43d62a8))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7159,7 +7159,7 @@
       (net 3 "GND") (tstamp bfff8af5-be9c-44df-80bd-23ee2cf9c437))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 1 "+5V") (tstamp 8672a05d-b750-4ddd-a92d-4c58fddcdd4e))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7199,7 +7199,7 @@
       (net 3 "GND") (tstamp 53548090-4b36-44b5-9ef5-2fa214b2fbf4))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 1 "+5V") (tstamp 4c77837f-2440-4b7b-8e7e-430f981c7c04))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7239,7 +7239,7 @@
       (net 3 "GND") (tstamp fab79269-47fb-42f7-a3ad-b9ec94b79b4b))
     (pad "2" smd rect locked (at 0.85 0 180) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 1 "+5V") (tstamp d427b096-2104-4cac-9d5d-d2195401989e))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7279,7 +7279,7 @@
       (net 1 "+5V") (tstamp a0400e61-7ec0-4cc7-a41d-d7c451e758fe))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp e44b0081-5f25-4984-8fb5-ea876fb2fc1c))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7319,7 +7319,7 @@
       (net 1 "+5V") (tstamp 3be2f64a-643b-4527-aaf5-307341a81097))
     (pad "2" smd rect locked (at 0.85 0 90) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp f420833d-9f22-43c2-813c-6543682555e5))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7359,7 +7359,7 @@
       (net 1 "+5V") (tstamp 824a1256-25d4-4c20-968f-40a07210c698))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp 08601885-ffd0-426c-9b07-2dc479593fb1))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7399,7 +7399,7 @@
       (net 1 "+5V") (tstamp 09684b6c-5d15-4020-b96b-0b388e8ee3ea))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp d2f72b7f-67e2-4cf3-9de6-340a26ecf95b))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7439,7 +7439,7 @@
       (net 1 "+5V") (tstamp b9f8ba78-9b7b-4a7c-8351-c9f145a140ab))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp 6b1d6bcd-1928-474b-8dbd-6dab746597ca))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7479,7 +7479,7 @@
       (net 1 "+5V") (tstamp 190829cf-8172-400f-bba0-21761cc942eb))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp 510813ff-4301-4d7b-b640-805049ac6194))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7519,7 +7519,7 @@
       (net 1 "+5V") (tstamp 9328bf5e-c997-4667-847d-cf51587a0583))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp 45c7911f-b027-440e-9e3e-77a146b41944))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7559,7 +7559,7 @@
       (net 1 "+5V") (tstamp ff579cc0-821d-40ca-8f3d-8708c2d87acb))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp 1e0743f9-25f1-4e27-8ba3-1bbc1755dc6c))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7599,7 +7599,7 @@
       (net 1 "+5V") (tstamp d068a394-7054-45f9-ac53-014bf75c7213))
     (pad "2" smd rect locked (at 0.85 0 90) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp fd955970-c990-4603-96b5-f465442bdb88))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7639,7 +7639,7 @@
       (net 1 "+5V") (tstamp 5379d081-922a-4828-9d43-7b2f2572d06c))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp 5d9cc826-4756-4365-b769-24e883398d0a))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7679,7 +7679,7 @@
       (net 1 "+5V") (tstamp b6346b0a-bb01-4e48-89f7-5054374e0d0d))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp 7ff097b5-a55d-47f6-a955-3ddc5f3d0fd8))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7719,7 +7719,7 @@
       (net 1 "+5V") (tstamp 61a8149a-2c46-4891-a026-d1321b4c0b29))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp 1e4121a8-838d-461e-bd87-c7b273513df5))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7759,7 +7759,7 @@
       (net 1 "+5V") (tstamp 23a49e10-e7d0-41d9-a15a-25ac614cee99))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp e1a929c4-c484-4255-9524-8c224d1f6e73))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7799,7 +7799,7 @@
       (net 1 "+5V") (tstamp 4d290f63-844a-4f7b-8aec-c610c29b1e2f))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp fdd0a3ff-3d05-4dc5-8f2c-3aa967326c19))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7839,7 +7839,7 @@
       (net 1 "+5V") (tstamp cd008119-17d3-4098-90f3-4ace8a150683))
     (pad "2" smd rect locked (at 0.85 0) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp ae0ad2a8-816d-4ed9-8122-ce73b249d5bc))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7879,7 +7879,7 @@
       (net 1 "+5V") (tstamp d7b44d07-2cb6-4c10-bad9-adf2185ee6fd))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp 4159a1b3-645b-4fcf-a72d-9242b2067a63))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7919,7 +7919,7 @@
       (net 1 "+5V") (tstamp 486e42a8-ccd7-4296-b46d-c1c0b1981be4))
     (pad "2" smd rect locked (at 0.85 0 270) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp 49b6beb3-5d64-4af2-830b-e99a8a5ac007))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -7959,7 +7959,7 @@
       (net 1 "+5V") (tstamp 70791199-43db-4ae1-bf3d-59e94aad8d59))
     (pad "2" smd rect locked (at 0.85 0 90) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp 3fcf515a-b2e5-4769-a263-706606d34687))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8007,7 +8007,7 @@
       (net 7 "ROW0") (tstamp 6d4529c3-e736-41f4-9e85-842fded7472a))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 8 "Net-(D1-Pad2)") (tstamp 4445e598-1c38-4291-936b-eafc95d0cf78))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8055,7 +8055,7 @@
       (net 7 "ROW0") (tstamp 572f678c-7489-4a0c-81c3-6f024e0707be))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 9 "Net-(D2-Pad2)") (tstamp a82cec30-45c1-49b3-b9e6-e30cc49eb759))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8103,7 +8103,7 @@
       (net 24 "ROW1") (tstamp d0164702-426e-4c87-abe5-fbfeda4c6ede))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 10 "Net-(D3-Pad2)") (tstamp eccdf86f-23ac-4077-b13e-27dc356e9a70))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8151,7 +8151,7 @@
       (net 7 "ROW0") (tstamp 7ab2c56a-308f-45dd-b534-f28d44e59352))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 11 "Net-(D4-Pad2)") (tstamp ddb83956-0781-4967-adf3-cb27a82b32ef))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8199,7 +8199,7 @@
       (net 7 "ROW0") (tstamp 2fa17bd4-23af-495d-84c8-95f8b6beb5a8))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 13 "Net-(D6-Pad2)") (tstamp 961e37cd-505c-40aa-baef-0a680d665d8f))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8247,7 +8247,7 @@
       (net 24 "ROW1") (tstamp 05fda319-28dc-4877-8331-02cb10501361))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 14 "Net-(D7-Pad2)") (tstamp 9cdc04e7-a7c1-410b-8dd7-1b5a287afb98))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8295,7 +8295,7 @@
       (net 7 "ROW0") (tstamp eb5c3818-51cd-4092-a6a2-1d306912382e))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 15 "Net-(D8-Pad2)") (tstamp d28c26df-aeff-4f6a-a1dc-f734efaf55cb))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8343,7 +8343,7 @@
       (net 24 "ROW1") (tstamp 11b49d13-b047-4242-be65-9a9b1c80ec58))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 16 "Net-(D9-Pad2)") (tstamp 006bc43b-d3a8-4a38-a8dc-5a24da3f9b4d))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8391,7 +8391,7 @@
       (net 7 "ROW0") (tstamp 328b655f-3682-4d72-b986-09747092cdfb))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 17 "Net-(D10-Pad2)") (tstamp 11ccd497-2713-4d03-8a7a-1dbd53fbc1f7))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8439,7 +8439,7 @@
       (net 24 "ROW1") (tstamp 97208e50-b896-4df8-8da4-ea2fc6b46da5))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 18 "Net-(D11-Pad2)") (tstamp d92cfbfa-da4b-4f63-8ad6-7bb6977d4f44))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8487,7 +8487,7 @@
       (net 7 "ROW0") (tstamp daa8252e-3760-4210-b0ae-513325376d6c))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 19 "Net-(D12-Pad2)") (tstamp 31d127b8-e8f8-47b6-acc4-5f7197d756d8))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8535,7 +8535,7 @@
       (net 24 "ROW1") (tstamp bdb69042-8fa0-4d7e-be19-fed7218cdfd8))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 20 "Net-(D13-Pad2)") (tstamp 9f7b3295-d16c-467f-88f6-2ab8ee650e3a))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8583,7 +8583,7 @@
       (net 238 "ROW9") (tstamp b2944857-047d-4655-a00b-49e658220448))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 21 "Net-(D14-Pad2)") (tstamp 22fad860-3ccd-4e16-bb76-65feba77694a))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8631,7 +8631,7 @@
       (net 38 "ROW2") (tstamp bba52ae1-2c60-4612-b640-b785ed4cdd7e))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 23 "Net-(D17-Pad2)") (tstamp a1f347f0-3fa4-4dbd-b2cf-d3082bc4e36a))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8679,7 +8679,7 @@
       (net 37 "ROW3") (tstamp 013a1c32-db17-4fdf-9087-65b8bebaf5c1))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 25 "Net-(D18-Pad2)") (tstamp f683b564-906b-42f6-a233-cd22c58657dd))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8727,7 +8727,7 @@
       (net 38 "ROW2") (tstamp 37e843e9-2538-4a91-9a9b-f536fa0a9e84))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 26 "Net-(D19-Pad2)") (tstamp 752fa345-d8be-4e99-aad1-e88671f99643))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8775,7 +8775,7 @@
       (net 37 "ROW3") (tstamp 238ce6dc-0557-409a-ab04-93448fccaac4))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 27 "Net-(D20-Pad2)") (tstamp 5fa23453-de94-4f47-ab66-80326a468ae1))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8823,7 +8823,7 @@
       (net 38 "ROW2") (tstamp f2cb3dc7-19c3-4d39-8479-4368f9d1680c))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 28 "Net-(D21-Pad2)") (tstamp a4813917-c395-4e03-b658-4133a12249cd))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8871,7 +8871,7 @@
       (net 37 "ROW3") (tstamp 61d63f1b-dbdf-4e18-9e78-d70eac21ae65))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 29 "Net-(D22-Pad2)") (tstamp 23d0e929-f5a1-4c62-b387-0887d9659f38))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8919,7 +8919,7 @@
       (net 38 "ROW2") (tstamp 24c732be-56c7-40ff-a440-789a73d66281))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 30 "Net-(D23-Pad2)") (tstamp 8e0527a1-64cc-4c21-af5a-5910f4c387cc))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -8967,7 +8967,7 @@
       (net 37 "ROW3") (tstamp d827258b-50c4-46fc-b3a5-4b37a0dc9ee6))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 31 "Net-(D24-Pad2)") (tstamp 14be568d-2e52-4aed-b81b-dddc75cbdd07))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9015,7 +9015,7 @@
       (net 38 "ROW2") (tstamp e9f702de-b437-4ae2-a03e-b707e9309898))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 32 "Net-(D25-Pad2)") (tstamp 9fdbccc2-2f8e-4736-8eda-6be5762e5cd4))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9063,7 +9063,7 @@
       (net 37 "ROW3") (tstamp c760136f-382d-4dce-baed-596591861912))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 33 "Net-(D26-Pad2)") (tstamp a8aaba27-4342-41ce-bbda-d0444467961f))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9111,7 +9111,7 @@
       (net 38 "ROW2") (tstamp 8519174e-f406-4836-8f33-e219a5351591))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 34 "Net-(D27-Pad2)") (tstamp 116b375f-957b-4eda-a12b-df384678f533))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9159,7 +9159,7 @@
       (net 37 "ROW3") (tstamp 756b369e-c079-4259-88cc-888037ab7efa))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 35 "Net-(D28-Pad2)") (tstamp c35e417c-496e-4303-b5c4-321c3cede22a))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9207,7 +9207,7 @@
       (net 38 "ROW2") (tstamp d16f4efb-8280-42d4-b6f7-9241e542014e))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 36 "Net-(D29-Pad2)") (tstamp fbef883a-9c30-4b66-add6-8cab5f0ab881))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9255,7 +9255,7 @@
       (net 37 "ROW3") (tstamp 292c02f1-523d-4844-90f0-a744ec5ae311))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 185 "Net-(D30-Pad2)") (tstamp 9e00edb4-f0f4-46bc-a82d-075ebfd0d3ed))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9303,7 +9303,7 @@
       (net 239 "ROW6") (tstamp eb8e38cd-dc17-4593-889c-e9f58005f6e7))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 186 "Net-(D31-Pad2)") (tstamp 44d6780b-0f7d-4066-bfb2-bff50f00afa0))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9351,7 +9351,7 @@
       (net 22 "ROW4") (tstamp c6750bbb-1f60-4923-a832-20fb722c1b93))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 39 "Net-(D35-Pad2)") (tstamp 3adb9496-2d9f-40cf-b330-cf802996ea7f))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9399,7 +9399,7 @@
       (net 78 "ROW5") (tstamp 36786f1c-5181-4b16-85f0-7a9b5e48989f))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 40 "Net-(D36-Pad2)") (tstamp 3a13a33d-0399-4bf3-800a-72a2421cb176))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9447,7 +9447,7 @@
       (net 22 "ROW4") (tstamp b0f642eb-e44e-4747-9d08-48aa7b02d88d))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 41 "Net-(D37-Pad2)") (tstamp b89754be-9738-4e5f-8e95-e260ee696903))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9495,7 +9495,7 @@
       (net 78 "ROW5") (tstamp cc0d08d7-1c65-4883-9efb-f30fa51da8b0))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 42 "Net-(D38-Pad2)") (tstamp 5fc32f47-b50c-49bd-8a82-dd68c0426109))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9543,7 +9543,7 @@
       (net 22 "ROW4") (tstamp 88c879b0-2510-4f44-a16d-26dd08b3c12a))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 43 "Net-(D39-Pad2)") (tstamp 7bd6fa35-9259-4a2d-8279-ba81ed2069f9))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9591,7 +9591,7 @@
       (net 78 "ROW5") (tstamp 3487b883-d132-4810-af37-6ee3794b3652))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 44 "Net-(D40-Pad2)") (tstamp a1a89e2c-c297-4307-a1ff-efd1e2a95a5d))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9639,7 +9639,7 @@
       (net 22 "ROW4") (tstamp 8217ca7d-977c-4985-a684-eea82e5113b4))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 45 "Net-(D41-Pad2)") (tstamp a8f15f81-c64f-4a6a-8184-eabd4f5daa6f))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9687,7 +9687,7 @@
       (net 78 "ROW5") (tstamp 853b4aa5-bf64-4f10-b1c5-492731c47e3b))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 46 "Net-(D42-Pad2)") (tstamp becc5b0d-0352-4ad7-ac5e-da033ca0b239))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9735,7 +9735,7 @@
       (net 22 "ROW4") (tstamp 721eced1-7601-448b-b032-57ae840a5bc6))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 47 "Net-(D43-Pad2)") (tstamp bb30a1ab-4552-453e-850d-50bc465e6071))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9783,7 +9783,7 @@
       (net 78 "ROW5") (tstamp 557efbe0-59d9-4c3b-875e-681f1d0eabac))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 48 "Net-(D44-Pad2)") (tstamp 5eb244d0-032b-4a57-a147-44faacc0e313))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9831,7 +9831,7 @@
       (net 22 "ROW4") (tstamp 75ada5c7-eed3-466b-a900-bb7cf3da6f9e))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 49 "Net-(D45-Pad2)") (tstamp f23aaf25-de61-4f0e-9770-0b4e07746fe6))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9879,7 +9879,7 @@
       (net 78 "ROW5") (tstamp 4ee7e00d-7ebf-4975-bd69-7b422f82b3e0))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 50 "Net-(D46-Pad2)") (tstamp a773823e-0f26-4fe7-b141-87b580d11b17))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9927,7 +9927,7 @@
       (net 22 "ROW4") (tstamp bc90f0c0-612e-411d-9c41-1a8ebb2b39fc))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 51 "Net-(D47-Pad2)") (tstamp 59e03393-006d-471e-9536-bbbd75e54503))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -9975,7 +9975,7 @@
       (net 78 "ROW5") (tstamp 780076de-fb73-43f2-b5aa-1c95059ff25d))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 52 "Net-(D48-Pad2)") (tstamp 77b08f8f-0764-4619-ae58-4700c5781fa2))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10023,7 +10023,7 @@
       (net 239 "ROW6") (tstamp 6a7b2059-d977-4612-95c2-3fe01e6e1434))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 187 "Net-(D52-Pad2)") (tstamp 97c3e317-415d-4b4f-8101-e9340ae149a3))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10071,7 +10071,7 @@
       (net 240 "ROW7") (tstamp f0b46255-e918-4a38-931d-8a945e9905c3))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 53 "Net-(D53-Pad2)") (tstamp 0bf07fd4-aa7e-4f51-a6a6-44b27866d654))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10119,7 +10119,7 @@
       (net 239 "ROW6") (tstamp 1418a8af-ecf9-4c29-a7a3-d0ed1e478705))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 54 "Net-(D54-Pad2)") (tstamp 250e48fb-e2d3-44be-a21e-1a17c0d65000))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10167,7 +10167,7 @@
       (net 240 "ROW7") (tstamp 47472735-41ec-4096-96fb-ce611f148c4c))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 55 "Net-(D55-Pad2)") (tstamp a02008a9-68e1-4709-bfc0-24c27997889b))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10215,7 +10215,7 @@
       (net 239 "ROW6") (tstamp b6f6bd1a-2333-4a7e-8ef6-f8a63bf31635))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 56 "Net-(D56-Pad2)") (tstamp 2e0de0fd-ad73-4e93-8d2e-96ad3d9f4bc7))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10263,7 +10263,7 @@
       (net 240 "ROW7") (tstamp 5962fb65-4840-4342-83d8-ebe11a13a0c5))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 57 "Net-(D57-Pad2)") (tstamp ebd0fc89-8e13-43bb-945a-2e8b75c613c1))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10311,7 +10311,7 @@
       (net 239 "ROW6") (tstamp baac58cf-ba1a-4451-8078-47a320ad2217))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 58 "Net-(D58-Pad2)") (tstamp 52d8e7e5-a13c-454e-a4ac-2f9fbb38f9bc))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10359,7 +10359,7 @@
       (net 240 "ROW7") (tstamp 5bcf876f-136c-4dac-ae61-fa226f0c392d))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 59 "Net-(D59-Pad2)") (tstamp 0580ba4c-51c4-4298-ad74-e9c2ef4e04a2))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10407,7 +10407,7 @@
       (net 239 "ROW6") (tstamp e93a39c0-ae2f-4d69-82ed-37fb069ff7a5))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 60 "Net-(D60-Pad2)") (tstamp 7e03d2ab-f849-4512-9569-879b25ae0e0c))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10455,7 +10455,7 @@
       (net 240 "ROW7") (tstamp 9f32a78e-0b59-4846-9068-4909840a34ae))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 61 "Net-(D61-Pad2)") (tstamp c3f25bab-d21c-43b9-bb4f-57d9b5e2645a))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10503,7 +10503,7 @@
       (net 239 "ROW6") (tstamp 2ff466f2-a10f-4d30-86d0-258970718dd1))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 62 "Net-(D62-Pad2)") (tstamp 7331b4f5-537b-4797-b38c-6afa10e0716d))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10551,7 +10551,7 @@
       (net 240 "ROW7") (tstamp b80aa845-c1c7-4a36-86eb-13202c5b8807))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 63 "Net-(D63-Pad2)") (tstamp 1108f7d7-1300-4e64-9d0c-b460edb02c0e))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10599,7 +10599,7 @@
       (net 240 "ROW7") (tstamp 9fb424fe-4f6c-4d22-8792-3bb91a9b6a60))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 64 "Net-(D65-Pad2)") (tstamp 8e3c7592-f609-41c4-a633-9cb7fa93b36f))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10647,7 +10647,7 @@
       (net 238 "ROW9") (tstamp 6ce712c5-fc40-4079-b769-1caeda39d8f3))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 65 "Net-(D66-Pad2)") (tstamp ada693f8-405a-4ed4-a362-368ec4995726))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10695,7 +10695,7 @@
       (net 241 "ROW8") (tstamp 656d53ce-f566-445c-b0e6-a23f4f7c85c3))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 66 "Net-(D67-Pad2)") (tstamp af3133d6-3567-4a5e-85de-7a388c670552))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10743,7 +10743,7 @@
       (net 241 "ROW8") (tstamp dd382246-183c-47cd-a1d2-b4a783a36f10))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 67 "Net-(D68-Pad2)") (tstamp 05c31076-da2c-45da-9c66-4c7e663f0d51))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10791,7 +10791,7 @@
       (net 238 "ROW9") (tstamp 4f0ad253-6758-4fab-a304-5619bb190326))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 68 "Net-(D69-Pad2)") (tstamp ed15d2ab-884d-4309-8fc5-a20c99e91302))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10839,7 +10839,7 @@
       (net 241 "ROW8") (tstamp a67f115f-343e-401e-a6fd-6c057cd578a5))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 69 "Net-(D70-Pad2)") (tstamp 7da8efaf-d0d3-4bd4-ace3-f78d8c4be5ba))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10887,7 +10887,7 @@
       (net 238 "ROW9") (tstamp 8dc186eb-86cf-41e1-8b58-fae7324b6144))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 70 "Net-(D71-Pad2)") (tstamp f89ddfd4-8c5b-4ab4-8c95-e6e9a5e87dd0))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10935,7 +10935,7 @@
       (net 241 "ROW8") (tstamp e13a898a-5de8-4d94-a80e-b064cdd01fc8))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 71 "Net-(D72-Pad2)") (tstamp 8ce025a1-9853-4cfa-8a57-0f90476397e9))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -10983,7 +10983,7 @@
       (net 238 "ROW9") (tstamp 116dcb13-d6f5-40e1-b835-53753121c5b4))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 72 "Net-(D73-Pad2)") (tstamp 27907456-675f-4372-8456-3255fdd1a95d))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11031,7 +11031,7 @@
       (net 241 "ROW8") (tstamp d6359131-a990-459a-850e-6c100e2b0fca))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 73 "Net-(D74-Pad2)") (tstamp d854e56c-a962-466d-bce7-bfb3c9c54498))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11079,7 +11079,7 @@
       (net 238 "ROW9") (tstamp 23714fc1-59db-4500-9d38-af86ea69fe3f))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 74 "Net-(D75-Pad2)") (tstamp d1dfa0d9-6085-48b0-8c67-e7d0c2f5ffb4))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11127,7 +11127,7 @@
       (net 241 "ROW8") (tstamp 18282a1a-7012-465b-b257-9994d1176f23))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 75 "Net-(D76-Pad2)") (tstamp e02aa7f6-3311-45f9-a392-49d8927cbc6a))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11175,7 +11175,7 @@
       (net 238 "ROW9") (tstamp e3401cc1-8833-4b9f-9419-4adbb09db133))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 76 "Net-(D77-Pad2)") (tstamp 2097c02a-9419-426d-a010-cdecd44e7e36))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11223,7 +11223,7 @@
       (net 241 "ROW8") (tstamp 3f473a8d-2328-4446-9e36-aaf72c0dfceb))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 77 "Net-(D78-Pad2)") (tstamp fd41e0a0-0c45-4beb-acb0-15535c603bb5))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11271,7 +11271,7 @@
       (net 242 "ROW10") (tstamp 10e85d49-8c1d-4e38-920c-77246389daec))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 79 "Net-(D81-Pad2)") (tstamp ffadf13e-d327-4e72-a129-20b1a691d829))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11319,7 +11319,7 @@
       (net 243 "ROW11") (tstamp 135dc062-d77d-4089-9b0c-b888ac79f63d))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 80 "Net-(D82-Pad2)") (tstamp b3f487ff-b47c-4488-ba8c-08e7b412da21))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11367,7 +11367,7 @@
       (net 242 "ROW10") (tstamp b75ad8c5-9f55-49ef-9af8-7ab1b11ab9d4))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 81 "Net-(D84-Pad2)") (tstamp e701a39e-8bd3-440b-8d4a-26c336209834))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11415,7 +11415,7 @@
       (net 243 "ROW11") (tstamp d51ba27b-8ed7-4eca-b0be-3ba1363dff58))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 82 "Net-(D85-Pad2)") (tstamp ec620b77-8919-4285-a6c0-f21b0acac14b))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11463,7 +11463,7 @@
       (net 242 "ROW10") (tstamp 88071c39-7478-4d42-a0c9-ea227d61f16f))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 83 "Net-(D86-Pad2)") (tstamp 55baceed-f7d9-4d73-84e4-b06c780623b7))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11511,7 +11511,7 @@
       (net 242 "ROW10") (tstamp e67cf9e7-1746-4856-8edd-555e3682799f))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 84 "Net-(D87-Pad2)") (tstamp feea9af2-e998-45d6-8a1e-4e08486a5acb))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11559,7 +11559,7 @@
       (net 242 "ROW10") (tstamp c7db6f12-37a4-4f57-ae11-a85dc3d9a3a4))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 85 "Net-(D90-Pad2)") (tstamp 95b18c49-20bf-4d9f-b3e3-cebdbf176759))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11607,7 +11607,7 @@
       (net 243 "ROW11") (tstamp 50e82998-94a9-4b38-a960-5b276fe8586e))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 86 "Net-(D91-Pad2)") (tstamp 918a6a26-88ff-465a-a552-2e52adce8a03))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11655,7 +11655,7 @@
       (net 7 "ROW0") (tstamp 99f42b58-88eb-419e-9dff-f13059ef50e4))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 87 "Net-(D92-Pad2)") (tstamp 885fe160-5562-498c-ba18-9f416e1d87d2))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11703,7 +11703,7 @@
       (net 24 "ROW1") (tstamp beb82a37-d3f9-4faf-8a12-3d7cff00e7e0))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 88 "Net-(D93-Pad2)") (tstamp ee823590-ecbd-4107-bb1f-1a309e1b21af))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11751,7 +11751,7 @@
       (net 7 "ROW0") (tstamp 6792a032-9256-487f-aa0b-8c689e242f4e))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 89 "Net-(D94-Pad2)") (tstamp 8d6a069f-4023-40e5-b77a-c447eb7c2730))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11799,7 +11799,7 @@
       (net 38 "ROW2") (tstamp 9c81b9e4-c3e8-4c27-acdb-80b385e836a7))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 90 "Net-(D95-Pad2)") (tstamp 3a43f2ef-4839-435a-bede-c90252339a51))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11847,7 +11847,7 @@
       (net 37 "ROW3") (tstamp e62f9cc5-f046-442e-9360-e5ca54404aa5))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 91 "Net-(D96-Pad2)") (tstamp 29ec1054-96e5-4371-8fe7-f31c027b27f9))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11895,7 +11895,7 @@
       (net 38 "ROW2") (tstamp f5496577-1f0e-43c4-b7b1-d474695074a1))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 92 "Net-(D97-Pad2)") (tstamp 57f6b820-62fa-4d98-887a-d2a380a76964))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11943,7 +11943,7 @@
       (net 22 "ROW4") (tstamp 97c50482-6541-4532-8eba-6810ebff5ba3))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 93 "Net-(D99-Pad2)") (tstamp 91c9976e-33f3-4776-850e-36ee5d251977))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -11991,7 +11991,7 @@
       (net 78 "ROW5") (tstamp 5e3ca9e8-0260-4e6b-9246-fb1c6934f35f))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 94 "Net-(D100-Pad2)") (tstamp 8dd226d8-66bc-4019-937b-c4493e60bf0c))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12039,7 +12039,7 @@
       (net 22 "ROW4") (tstamp 70b4eaa4-61ff-4379-b06d-623ca05164b1))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 95 "Net-(D101-Pad2)") (tstamp fa18dae7-2fb1-4387-a3c1-308ca16c5c1d))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12087,7 +12087,7 @@
       (net 238 "ROW9") (tstamp 97db2584-9d07-47ab-a55c-f2cbce602789))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 96 "Net-(D108-Pad2)") (tstamp d2d5f057-3d3f-4824-ba53-bea972f61938))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12135,7 +12135,7 @@
       (net 242 "ROW10") (tstamp 0ea92114-4add-4ede-abc4-5938831a4fe1))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 97 "Net-(D111-Pad2)") (tstamp f3dab665-64fc-433e-8a62-3743b891ab83))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12183,7 +12183,7 @@
       (net 243 "ROW11") (tstamp fa2a5346-d622-407d-8ea5-af43140584bc))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 98 "Net-(D112-Pad2)") (tstamp 5a8f98be-3861-4e9a-bd06-b6217ad585d8))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12231,7 +12231,7 @@
       (net 242 "ROW10") (tstamp 81b5884f-0b53-4d9c-bd56-68349a70cfdc))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 99 "Net-(D113-Pad2)") (tstamp 0aed48c5-a79a-4a41-bde0-89e9736637c1))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12267,7 +12267,7 @@
       (net 1 "+5V") (tstamp b9f7803b-2d1f-4d54-9314-0bb75d4d2a99))
     (pad "2" smd rect locked (at 1.58 0) (size 2.03 1.65) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 100 "VCC") (tstamp 327c7a09-4eab-4720-836f-192dc5a1409c))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_1206_3216Metric.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_1206_3216Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -12307,7 +12307,7 @@
       (net 135 "Net-(MX_ESC1-Pad4)") (tstamp daf70a07-a3d2-4ced-9e93-1c9d8ce83d0f))
     (pad "2" smd rect locked (at 0.9 0 90) (size 0.8 0.9) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 173 "LEDGND") (tstamp 01f83146-4808-4dce-868e-509173e2f2d2))
-    (model "${KISYS3DMOD}/Resistors_SMD.3dshapes/R_0603.wrl"
+    (model "${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -16075,9 +16075,9 @@
       (net 3 "GND") (tstamp a659890f-c262-401d-95e1-315d3cf4375a))
     (pad "4" smd rect locked (at 2.6 1.6 270) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 219 "RGBLED") (tstamp cb7d7a60-c3f6-41de-9a14-1e4dd5641c3a))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16118,9 +16118,9 @@
       (net 3 "GND") (tstamp b06fdf55-9b05-48ab-b20a-f43456e8f5ec))
     (pad "4" smd rect locked (at 2.6 1.6) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 220 "Net-(RGB1-Pad2)") (tstamp a66a3b2f-f268-4e38-987e-b27ec003ce16))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16161,9 +16161,9 @@
       (net 3 "GND") (tstamp f8cfd3aa-e4ff-4f9d-9bf9-0adf19203b52))
     (pad "4" smd rect locked (at 2.6 1.6 270) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 221 "Net-(RGB2-Pad2)") (tstamp 934f6b2e-d892-4606-8ba6-f8b20bec47c8))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16204,9 +16204,9 @@
       (net 3 "GND") (tstamp 9fe4ec8e-d675-4b57-9038-b2ad5a9800f8))
     (pad "4" smd rect locked (at 2.6 1.6 270) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 222 "Net-(RGB3-Pad2)") (tstamp 4338d29b-6c04-409d-875e-313e19a0fd23))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16247,9 +16247,9 @@
       (net 3 "GND") (tstamp 914b97a7-9ab8-451c-a722-b00b43b0407a))
     (pad "4" smd rect locked (at 2.6 1.6 270) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 223 "Net-(RGB4-Pad2)") (tstamp 927b13de-a1b2-4c42-9cb3-5b1a43c05216))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16290,9 +16290,9 @@
       (net 3 "GND") (tstamp 3bd73262-7ee1-4541-8298-a0d7411e1d75))
     (pad "4" smd rect locked (at 2.6 1.6 270) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 224 "Net-(RGB5-Pad2)") (tstamp 42b93640-dc22-413d-916b-9e4ab2755ea6))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16333,9 +16333,9 @@
       (net 3 "GND") (tstamp d529c14c-6b71-446f-a6fb-bec03d4315ab))
     (pad "4" smd rect locked (at 2.6 1.6 270) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 225 "Net-(RGB6-Pad2)") (tstamp 0c26e243-b790-4705-9f55-8a867324ed12))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16376,9 +16376,9 @@
       (net 3 "GND") (tstamp 970b75d2-be6a-4922-bf76-1e9d7e25dec5))
     (pad "4" smd rect locked (at 2.6 1.6 270) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 226 "Net-(RGB7-Pad2)") (tstamp b719a6ee-0144-4966-8b91-52a9b865a921))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16419,9 +16419,9 @@
       (net 3 "GND") (tstamp 95ceb3ed-a7d7-4f46-a5b5-e573dd4a910f))
     (pad "4" smd rect locked (at 2.6 1.6) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 227 "Net-(RGB8-Pad2)") (tstamp 2c11cd86-c17d-4d8f-89a3-4b809d7b5b0d))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16462,9 +16462,9 @@
       (net 3 "GND") (tstamp 19947266-d718-4a7e-8ce7-a9e04db709cf))
     (pad "4" smd rect locked (at 2.6 1.6 270) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 228 "Net-(RGB10-Pad4)") (tstamp f63f3c64-d980-4ae0-b129-a351881a850f))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16505,9 +16505,9 @@
       (net 3 "GND") (tstamp 16f5debb-7b35-41b9-bae0-84ba2f44a466))
     (pad "4" smd rect locked (at 2.6 1.6 270) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 229 "Net-(RGB10-Pad2)") (tstamp 060e7195-8501-4e09-8c43-1c823c24812a))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16548,9 +16548,9 @@
       (net 3 "GND") (tstamp 0520d68c-bdec-4d10-8756-c63de315da38))
     (pad "4" smd rect locked (at 2.6 1.6 270) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 230 "Net-(RGB11-Pad2)") (tstamp 76d9ca26-93f4-45a6-a893-a23ea5569a70))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16591,9 +16591,9 @@
       (net 3 "GND") (tstamp 98afd5f8-5eb7-42cb-92a7-4bb0e32eb918))
     (pad "4" smd rect locked (at 2.6 1.6 270) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 231 "Net-(RGB12-Pad2)") (tstamp 747aec7c-69d3-480d-850e-7b5b9dac4015))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16634,9 +16634,9 @@
       (net 3 "GND") (tstamp 8c0d65e1-4a4d-4982-a3de-a94643ed355b))
     (pad "4" smd rect locked (at 2.6 1.6 270) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 232 "Net-(RGB13-Pad2)") (tstamp 5ed93df5-0550-4f68-8138-6b58ec386db8))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16677,9 +16677,9 @@
       (net 3 "GND") (tstamp 66096f4f-c798-4425-8537-e7adeb21bec3))
     (pad "4" smd rect locked (at 2.6 1.6 270) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 233 "Net-(RGB14-Pad2)") (tstamp fffd8529-ec61-4c2e-ae6d-c3e663947951))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16720,9 +16720,9 @@
       (net 3 "GND") (tstamp be4a35bf-388c-48f9-a61f-b9bdb1e6be81))
     (pad "4" smd rect locked (at 2.6 1.6 270) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 234 "Net-(RGB15-Pad2)") (tstamp 52bad23a-58b1-4b0a-8a4a-7eecb3af8646))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16763,9 +16763,9 @@
       (net 3 "GND") (tstamp 08a3676a-a023-48ec-ba8b-baec3d88899a))
     (pad "4" smd rect locked (at 2.6 1.6 270) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 235 "Net-(RGB16-Pad2)") (tstamp 5805d656-927a-4296-aa49-a0ba3d7b6fe1))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16806,9 +16806,9 @@
       (net 3 "GND") (tstamp 02565f97-cd17-42be-94e0-c07f1614224c))
     (pad "4" smd rect locked (at 2.6 1.6) (size 1.8 1) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 236 "Net-(RGB17-Pad2)") (tstamp 0023162f-a07e-408b-b318-1e8e9f305001))
-    (model "${KISYS3DMOD}/LEDs.3dshapes/LED_WS2812B-PLCC4.wrl"
+    (model "${KISYS3DMOD}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
       (offset (xyz 0 0 0))
-      (scale (xyz 0.39 0.39 0.39))
+      (scale (xyz 1 1 1))
       (rotate (xyz 0 0 180))
     )
   )
@@ -16846,7 +16846,7 @@
       (net 4 "XTAL1") (tstamp 06fb8a5e-69f3-44ca-bc88-4da9a1408625))
     (pad "2" smd rect locked (at 0.85 0) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 3 "GND") (tstamp 9ceeff0a-ae63-43da-8fd2-e3d57063537d))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -17024,7 +17024,7 @@
       (net 24 "ROW1") (tstamp 53d63574-d294-4160-8943-1f901b80728f))
     (pad "2" smd rect locked (at 1.8 0 90) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 12 "Net-(D5-Pad2)") (tstamp 9d221b3b-0bfe-4439-a426-0f2594b9c7bf))
-    (model "${KISYS3DMOD}/Diodes_SMD.3dshapes/D_SOD-123.wrl"
+    (model "${KISYS3DMOD}/Diode_SMD.3dshapes/D_SOD-123.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -17184,7 +17184,7 @@
       (net 3 "GND") (tstamp b45301a2-b6d7-44bd-8834-616acde30aef))
     (pad "2" smd rect locked (at 0.85 0 180) (size 1 0.75) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 1 "+5V") (tstamp a97d9593-88f3-490c-93d3-a1f528046ef8))
-    (model "Capacitors_SMD.3dshapes/C_0603.wrl"
+    (model "${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
