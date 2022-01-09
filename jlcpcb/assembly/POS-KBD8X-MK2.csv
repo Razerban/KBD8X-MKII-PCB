@@ -115,7 +115,7 @@ D111       ,SOD-323            ,D_SOD-123                       ,330.2      ,-13
 D112       ,SOD-323            ,D_SOD-123                       ,349.25     ,-138.90625  ,90.0     ,bottom
 D113       ,SOD-323            ,D_SOD-123                       ,346.075    ,-138.90625  ,90.0     ,bottom
 F1         ,500mA              ,Fuse_1206_3216Metric            ,322.834    ,-45.974     ,90.0     ,bottom
-Q1         ,DSS60601MZ4-13     ,SOT-223-3_TabPin2               ,369.8875   ,-107.15625  ,90.0     ,bottom
+Q1         ,DSS60601MZ4-13     ,SOT-223-3_TabPin2               ,369.8875   ,-107.15625  ,-90.0     ,bottom
 R1         ,1k                 ,R_0603                          ,55.5625    ,-45.24375   ,90.0     ,bottom
 R2         ,1k                 ,R_0603                          ,93.6625    ,-45.24375   ,90.0     ,bottom
 R3         ,1k                 ,R_0603                          ,112.7125   ,-45.24375   ,90.0     ,bottom
@@ -232,8 +232,8 @@ RGB16      ,WS2812B            ,LED_WS2812B-PLCC4               ,321.46875  ,-13
 RGB17      ,WS2812B            ,LED_WS2812B-PLCC4               ,366.7125   ,-137.31875  ,-90.0    ,bottom
 RGB18      ,WS2812B            ,LED_WS2812B-PLCC4               ,366.7125   ,-92.075     ,0.0      ,bottom
 SW1        ,SW_Push            ,SKQG-1155865                    ,361.553125 ,-107.15625  ,-90.0    ,bottom
-SW2        ,SW_SPDT            ,SW_SPDT_PCM12                   ,366.7125   ,-50.00625   ,180.0    ,bottom
-SW3        ,SW_SPDT            ,SW_SPDT_PCM12                   ,68.2625    ,-102.39375  ,-90.0    ,bottom
+SW2        ,SW_SPDT            ,SW_SPDT_PCM12                   ,366.7125   ,-50.00625   ,0.0    ,bottom
+SW3        ,SW_SPDT            ,SW_SPDT_PCM12                   ,68.2625    ,-102.39375  ,90.0    ,bottom
 U1         ,ATmega32U4-MU      ,QFN-44-1EP_7x7mm_Pitch0.5mm     ,340.217125 ,-107.045125 ,0.0      ,bottom
 U2         ,PRTR5V0U2X         ,SOT143B                         ,326.263    ,-40.48125   ,-90.0    ,bottom
 USB1       ,HRO-TYPE-C-31-M-12 ,HRO-TYPE-C-31-M-12-Assembly     ,326.23125  ,-27.687125  ,0.0      ,bottom
