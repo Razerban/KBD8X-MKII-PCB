@@ -1,6 +1,4 @@
 (sym_lib_table
-  (lib (name ai03-locallib)(type Legacy)(uri ${KIPRJMOD}/locallib.pretty/schema/ai03-locallib.lib)(options "")(descr ""))
-  (lib (name MX_Alps_Hybrids)(type Legacy)(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrids.lib")(options "")(descr ""))
-  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Type-C.pretty/Type-C.lib)(options "")(descr ""))
-  (lib (name random-keyboard-parts)(type Legacy)(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "KBD8X_MK2_Components")(type "KiCad")(uri "${KIPRJMOD}/KBD8X_MK2_Components.pretty/Schematic Library/KBD8X_MK2_Components.kicad_sym")(options "")(descr "Library for symbols of the SMD components used in the KBD8X MKII Keyboard PCB project."))
+  (lib (name "KBD8X_MK2_Switches")(type "KiCad")(uri "${KIPRJMOD}/KBD8X_MK2_Switches.pretty/Schematic Library/KBD8X_MK2_Switches.kicad_sym")(options "")(descr "Library for symbols of switches used in the KBD8X MKII Keyboard PCB project."))
 )
