@@ -1,4 +1,4 @@
-fp-lib-table(fp_lib_table
+(fp_lib_table
   (lib (name "KBD8X_MK2_Components")(type "KiCad")(uri "${KIPRJMOD}/KBD8X_MK2_Components.pretty")(options "")(descr "Library for footprints of the SMD components used in the KBD8X MKII Keyboard PCB project."))
   (lib (name "KBD8X_MK2_Graphics")(type "KiCad")(uri "${KIPRJMOD}/KBD8X_MK2_Graphics.pretty")(options "")(descr "Library for footprints of the graphics used in the KBD8X MKII Keyboard PCB project."))
   (lib (name "KBD8X_MK2_Switches")(type "KiCad")(uri "${KIPRJMOD}/KBD8X_MK2_Switches.pretty")(options "")(descr "Library for footprints of the switches used in the KBD8X MKII Keyboard PCB project."))
