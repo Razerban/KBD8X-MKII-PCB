@@ -367,7 +367,6 @@
         "nets": [
           "+5V",
           "GND",
-          "LEDGND",
           "VCC"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
