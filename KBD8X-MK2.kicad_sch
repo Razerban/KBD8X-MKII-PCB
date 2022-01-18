@@ -1604,7 +1604,7 @@
     (effects (font (size 3 3) (thickness 1.4) bold italic) (justify left bottom))
     (uuid 45a7d2ee-705d-4446-8247-dbc22f8afe2f)
   )
-  (text "RGB CIRCUITRY" (at 114.554 104.394 0)
+  (text "(NOT) RGB CIRCUITRY" (at 106.4768 104.1908 0)
     (effects (font (size 3 3) (thickness 1.4) bold italic) (justify left bottom))
     (uuid 5b0f6e09-8ce8-42cb-8c20-3557f4dd3086)
   )
@@ -1815,11 +1815,11 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (global_label "RGBLED" (shape input) (at 140.716 53.34 0) (fields_autoplaced)
+  (global_label "MISO" (shape input) (at 140.716 53.34 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid aeb03be9-98f0-43f6-9432-1bb35aa04bab)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 16.891 14.605 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 147.6364 53.2606 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
   (global_label "ROW5" (shape input) (at 241.3508 99.7712 0) (fields_autoplaced)
@@ -1843,11 +1843,11 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (global_label "RGBLED" (shape input) (at 241.3508 61.6712 0) (fields_autoplaced)
+  (global_label "MISO" (shape input) (at 241.3508 61.6712 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid e091e263-c616-48ef-a460-465c70218987)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 104.1908 -36.1188 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 248.2712 61.5918 0)
+      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
   (global_label "COL0" (shape input) (at 241.3508 115.0112 0) (fields_autoplaced)
@@ -2725,21 +2725,8 @@
     )
   )
 
-  (sheet (at 103.124 109.22) (size 55.88 48.006) (fields_autoplaced)
-    (stroke (width 0) (type solid) (color 0 0 0 0))
-    (fill (color 0 0 0 0.0000))
-    (uuid 00000000-0000-0000-0000-00005c8a33e3)
-    (property "Sheet name" "RGB" (id 0) (at 103.124 108.5084 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheet file" "RGB.kicad_sch" (id 1) (at 103.124 157.8106 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-  )
-
   (sheet_instances
     (path "/" (page "1"))
-    (path "/00000000-0000-0000-0000-00005c8a33e3" (page "2"))
     (path "/00000000-0000-0000-0000-00005a286589" (page "3"))
   )
 
@@ -2801,120 +2788,6 @@
     (path "/00000000-0000-0000-0000-00005c4df5aa"
       (reference "#PWR0106") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a5504"
-      (reference "#PWR0107") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a550a"
-      (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a5517"
-      (reference "#PWR0109") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a551d"
-      (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a552a"
-      (reference "#PWR0111") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a5530"
-      (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a553d"
-      (reference "#PWR0113") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a5543"
-      (reference "#PWR0114") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a951f"
-      (reference "#PWR0115") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9525"
-      (reference "#PWR0116") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9532"
-      (reference "#PWR0117") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9538"
-      (reference "#PWR0118") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9545"
-      (reference "#PWR0119") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a954b"
-      (reference "#PWR0120") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9558"
-      (reference "#PWR0121") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a955e"
-      (reference "#PWR0122") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c27"
-      (reference "#PWR0123") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c2d"
-      (reference "#PWR0124") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c3a"
-      (reference "#PWR0125") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c40"
-      (reference "#PWR0126") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c4d"
-      (reference "#PWR0127") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c53"
-      (reference "#PWR0128") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c60"
-      (reference "#PWR0129") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c66"
-      (reference "#PWR0130") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c7c"
-      (reference "#PWR0131") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c82"
-      (reference "#PWR0132") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c8f"
-      (reference "#PWR0133") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c95"
-      (reference "#PWR0134") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9ca2"
-      (reference "#PWR0135") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9ca8"
-      (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9cb5"
-      (reference "#PWR0137") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9cbb"
-      (reference "#PWR0138") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8aa4c3"
-      (reference "#PWR0139") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8aa4c9"
-      (reference "#PWR0140") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8aa4d6"
-      (reference "#PWR0141") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8aa4dc"
-      (reference "#PWR0142") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8bfdcc"
-      (reference "#PWR0143") (unit 1) (value "+5V") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8d0965"
-      (reference "#PWR0144") (unit 1) (value "GND") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-0000618cb8ba"
       (reference "#PWR0145") (unit 1) (value "GND") (footprint "")
     )
@@ -2944,60 +2817,6 @@
     )
     (path "/00000000-0000-0000-0000-00005b330fea"
       (reference "C8") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b1820"
-      (reference "CRGB1") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b3071"
-      (reference "CRGB2") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b40ab"
-      (reference "CRGB3") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b8fe3"
-      (reference "CRGB4") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8c6423"
-      (reference "CRGB5") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b1a97"
-      (reference "CRGB6") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b3078"
-      (reference "CRGB7") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b40b2"
-      (reference "CRGB8") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b8fea"
-      (reference "CRGB9") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8c642a"
-      (reference "CRGB10") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b1afd"
-      (reference "CRGB11") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b307f"
-      (reference "CRGB12") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b40b9"
-      (reference "CRGB13") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b8ff1"
-      (reference "CRGB14") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b1b69"
-      (reference "CRGB15") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b3086"
-      (reference "CRGB16") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b40c0"
-      (reference "CRGB17") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8b8ff8"
-      (reference "CRGB18") (unit 1) (value "0.1uF") (footprint "KBD8X_MK2_Components:C_0603")
     )
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2dda27"
       (reference "D1") (unit 1) (value "SOD-123") (footprint "KBD8X_MK2_Components:D_SOD-123")
@@ -3619,60 +3438,6 @@
     )
     (path "/00000000-0000-0000-0000-000066241502"
       (reference "RC7") (unit 1) (value "5k1") (footprint "KBD8X_MK2_Components:R_0603")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a54fd"
-      (reference "RGB1") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a5510"
-      (reference "RGB2") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a5523"
-      (reference "RGB3") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a5536"
-      (reference "RGB4") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9518"
-      (reference "RGB5") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a952b"
-      (reference "RGB6") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a953e"
-      (reference "RGB7") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9551"
-      (reference "RGB8") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c20"
-      (reference "RGB9") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c33"
-      (reference "RGB10") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c46"
-      (reference "RGB11") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c59"
-      (reference "RGB12") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c75"
-      (reference "RGB13") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c88"
-      (reference "RGB14") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c9b"
-      (reference "RGB15") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9cae"
-      (reference "RGB16") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8aa4bc"
-      (reference "RGB17") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
-    )
-    (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8aa4cf"
-      (reference "RGB18") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
     )
     (path "/00000000-0000-0000-0000-00005c4db62b"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "KBD8X_MK2_Components:SKQG-1155865")
