@@ -12,7 +12,7 @@
       (property "Value" "ATmega32U4-M" (id 1) (at 2.54 -44.45 0)
         (effects (font (size 1.27 1.27)) (justify left top))
       )
-      (property "Footprint" "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm" (id 2) (at 0 0 0)
+      (property "Footprint" "KBD8X_MK2_Components:QFN-44-1EP_7x7mm_Pitch0.5mm" (id 2) (at 0 0 0)
         (effects (font (size 1.27 1.27) italic) hide)
       )
       (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" (id 3) (at 0 0 0)
@@ -223,7 +223,7 @@
       (property "Value" "AVR-ISP-6" (id 1) (at 0 11.43 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
-      (property "Footprint" "" (id 2) (at -6.35 1.27 90)
+      (property "Footprint" "KBD8X_MK2_Components:Reset_Pretty-Mask" (id 2) (at -6.35 1.27 90)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "Datasheet" " ~" (id 3) (at -32.385 -13.97 0)
@@ -302,7 +302,7 @@
       (property "Value" "C_Small" (id 1) (at 0.254 -2.032 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
-      (property "Footprint" "" (id 2) (at 0 0 0)
+      (property "Footprint" "KBD8X_MK2_Components:C_0603" (id 2) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "Datasheet" "~" (id 3) (at 0 0 0)
@@ -353,7 +353,7 @@
       (property "Value" "Crystal_GND24" (id 1) (at 3.175 3.175 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
-      (property "Footprint" "" (id 2) (at 0 0 0)
+      (property "Footprint" "KBD8X_MK2_Components:Crystal_SMD_3225-4pin_3.2x2.5mm" (id 2) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "Datasheet" "~" (id 3) (at 0 0 0)
@@ -468,7 +468,7 @@
       (property "Value" "HRO-TYPE-C-31-M-12" (id 1) (at -10.16 -1.27 90)
         (effects (font (size 1.524 1.524)))
       )
-      (property "Footprint" "" (id 2) (at 0 0 0)
+      (property "Footprint" "KBD8X_MK2_Components:HRO-TYPE-C-31-M-12-Assembly" (id 2) (at 0 0 0)
         (effects (font (size 1.524 1.524)) hide)
       )
       (property "Datasheet" "" (id 3) (at 0 0 0)
@@ -546,7 +546,7 @@
       (property "Value" "PRTR5V0U2X" (id 1) (at 0 -3.81 0)
         (effects (font (size 1.524 1.524)))
       )
-      (property "Footprint" "" (id 2) (at 0 0 0)
+      (property "Footprint" "KBD8X_MK2_Components:SOT143B" (id 2) (at 0 0 0)
         (effects (font (size 1.524 1.524)) hide)
       )
       (property "Datasheet" "" (id 3) (at 0 0 0)
@@ -584,7 +584,7 @@
       (property "Value" "Polyfuse_Small" (id 1) (at 1.905 0 90)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Footprint" "" (id 2) (at 1.27 -5.08 0)
+      (property "Footprint" "KBD8X_MK2_Components:Fuse_1206_3216Metric" (id 2) (at 1.27 -5.08 0)
         (effects (font (size 1.27 1.27)) (justify left) hide)
       )
       (property "Datasheet" "~" (id 3) (at 0 0 0)
@@ -641,7 +641,7 @@
       (property "Value" "Q_NPN_BCE" (id 1) (at 5.08 -1.27 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
-      (property "Footprint" "" (id 2) (at 5.08 2.54 0)
+      (property "Footprint" "KBD8X_MK2_Components:SOT-223-3_TabPin2" (id 2) (at 5.08 2.54 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "Datasheet" "~" (id 3) (at 0 0 0)
@@ -718,7 +718,7 @@
       (property "Value" "R_Small" (id 1) (at 0.762 -1.016 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
-      (property "Footprint" "" (id 2) (at 0 0 0)
+      (property "Footprint" "KBD8X_MK2_Components:R_0603" (id 2) (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (property "Datasheet" "~" (id 3) (at 0 0 0)
@@ -2588,7 +2588,7 @@
     (uuid 00000000-0000-0000-0000-0000618b6d6d)
     (property "Reference" "U1" (id 0) (at 217.17 140.1064 0))
     (property "Value" "ATmega32U4-MU" (id 1) (at 217.17 142.4178 0))
-    (property "Footprint" "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm" (id 2) (at 217.17 92.202 0)
+    (property "Footprint" "KBD8X_MK2_Components:QFN-44-1EP_7x7mm_Pitch0.5mm" (id 2) (at 217.17 92.202 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" (id 3) (at 217.17 92.202 0)
@@ -3187,6 +3187,12 @@
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005dd5e01e"
       (reference "D14") (unit 1) (value "SOD-123") (footprint "KBD8X_MK2_Components:D_SOD-123")
     )
+    (path "/00000000-0000-0000-0000-00005a286589/bab302bc-7e19-4757-8b90-b56e0a741d17"
+      (reference "D15") (unit 1) (value "SOD-123") (footprint "KBD8X_MK2_Components:D_SOD-123")
+    )
+    (path "/00000000-0000-0000-0000-00005a286589/1b67fb45-967f-4677-b5e7-3629e5c7e3cf"
+      (reference "D16") (unit 1) (value "SOD-123") (footprint "KBD8X_MK2_Components:D_SOD-123")
+    )
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2e3fb7"
       (reference "D17") (unit 1) (value "SOD-123") (footprint "KBD8X_MK2_Components:D_SOD-123")
     )
@@ -3700,6 +3706,18 @@
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a33b8ba"
       (reference "MX_SP2") (unit 1) (value "MX-LED") (footprint "KBD8X_MK2_Switches:MXOnly-7U-ReversedStabilizers")
     )
+    (path "/00000000-0000-0000-0000-00005a286589/ff19663e-6654-48a3-9e52-2b7991658e2f"
+      (reference "MX_SP3") (unit 1) (value "MX-LED") (footprint "KBD8X_MK2_Switches:MXOnly-10U-ReversedStabilizers")
+    )
+    (path "/00000000-0000-0000-0000-00005a286589/dd80a9f5-5787-4151-8a40-e3db0bb644de"
+      (reference "MX_SP4") (unit 1) (value "MX-LED") (footprint "KBD8X_MK2_Switches:MXOnly-1U")
+    )
+    (path "/00000000-0000-0000-0000-00005a286589/c3c0243c-11eb-4307-8b03-c34e380759d2"
+      (reference "MX_SSPC1") (unit 1) (value "MX-LED") (footprint "KBD8X_MK2_Switches:MXOnly-3U-ReversedStabilizers")
+    )
+    (path "/00000000-0000-0000-0000-00005a286589/69946e69-8fe4-48a5-b7d1-ca6775e4099a"
+      (reference "MX_SSPC2") (unit 1) (value "MX-LED") (footprint "KBD8X_MK2_Switches:MXOnly-3U-ReversedStabilizers")
+    )
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed3b1"
       (reference "MX_T1") (unit 1) (value "MX-LED") (footprint "KBD8X_MK2_Switches:MXOnly-1U")
     )
@@ -3787,6 +3805,9 @@
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005dd5e025"
       (reference "R14") (unit 1) (value "1k") (footprint "KBD8X_MK2_Components:R_0603")
     )
+    (path "/00000000-0000-0000-0000-00005a286589/bbcc330a-fe9f-4945-92a4-73ed1cf6023e"
+      (reference "R15") (unit 1) (value "1k") (footprint "KBD8X_MK2_Components:R_0603")
+    )
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00006421446e"
       (reference "R16") (unit 1) (value "1k") (footprint "KBD8X_MK2_Components:R_0603")
     )
@@ -3840,6 +3861,9 @@
     )
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-000064214c8e"
       (reference "R33") (unit 1) (value "1k") (footprint "KBD8X_MK2_Components:R_0603")
+    )
+    (path "/00000000-0000-0000-0000-00005a286589/78647be1-71ed-4476-be12-28adaa8c6f31"
+      (reference "R34") (unit 1) (value "1k") (footprint "KBD8X_MK2_Components:R_0603")
     )
     (path "/00000000-0000-0000-0000-00005a286589/00000000-0000-0000-0000-00005a2ed33f"
       (reference "R35") (unit 1) (value "1k") (footprint "KBD8X_MK2_Components:R_0603")
@@ -4037,58 +4061,58 @@
       (reference "RC7") (unit 1) (value "5k1") (footprint "KBD8X_MK2_Components:R_0603")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a54fd"
-      (reference "RGB1") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB1") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a5510"
-      (reference "RGB2") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB2") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a5523"
-      (reference "RGB3") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB3") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a5536"
-      (reference "RGB4") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB4") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9518"
-      (reference "RGB5") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB5") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a952b"
-      (reference "RGB6") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB6") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a953e"
-      (reference "RGB7") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB7") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9551"
-      (reference "RGB8") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB8") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c20"
-      (reference "RGB9") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB9") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c33"
-      (reference "RGB10") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB10") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c46"
-      (reference "RGB11") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB11") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c59"
-      (reference "RGB12") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB12") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c75"
-      (reference "RGB13") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB13") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c88"
-      (reference "RGB14") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB14") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9c9b"
-      (reference "RGB15") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB15") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8a9cae"
-      (reference "RGB16") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB16") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8aa4bc"
-      (reference "RGB17") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB17") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c8a33e3/00000000-0000-0000-0000-00005c8aa4cf"
-      (reference "RGB18") (unit 1) (value "WS2812B") (footprint "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm")
+      (reference "RGB18") (unit 1) (value "WS2812B") (footprint "KBD8X_MK2_Components:LED_WS2812B-PLCC4")
     )
     (path "/00000000-0000-0000-0000-00005c4db62b"
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "KBD8X_MK2_Components:SKQG-1155865")
@@ -4100,7 +4124,7 @@
       (reference "SW3") (unit 1) (value "SW_SPDT") (footprint "KBD8X_MK2_Components:SW_SPDT_PCM12")
     )
     (path "/00000000-0000-0000-0000-0000618b6d6d"
-      (reference "U1") (unit 1) (value "ATmega32U4-MU") (footprint "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm")
+      (reference "U1") (unit 1) (value "ATmega32U4-MU") (footprint "KBD8X_MK2_Components:QFN-44-1EP_7x7mm_Pitch0.5mm")
     )
     (path "/00000000-0000-0000-0000-00005be1fa08"
       (reference "U2") (unit 1) (value "PRTR5V0U2X") (footprint "KBD8X_MK2_Components:SOT143B")
